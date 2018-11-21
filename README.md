@@ -1,2 +1,2 @@
-# xocoru.github.io
-Site repository
+# arthur.ru
+Personal Page
