@@ -1,6 +1,6 @@
 ---
 title: This is my title
-layout: index
+layout: page
 ---
 
 # Test page
