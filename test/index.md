@@ -1,7 +1,7 @@
 ---
 title: This is my title
 ---
-# Test page
+# {{ page.title }}
 
 ## Test 2
 
