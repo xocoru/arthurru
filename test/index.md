@@ -2,15 +2,22 @@
 title: This is my title
 ---
 # Test page
+
 ## Test 2
+
 bla-bla-bla 2
+
 * asdf *as df
-a sdf * asd f*
+
+a sdf
+
 * asdfasd
-*fasdf* _asdfasdf_ 
-# asdfsdfsdf
+
+*fasdf* _asdfasdf_
+
 ## tesfasdf 123
-```
+
+```bash
 asdfasdfas
 df
 asdf
@@ -18,4 +25,5 @@ asd
 f
 asdf
 ```
+
 sadfasdfasdf
