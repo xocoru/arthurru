@@ -1,5 +1,7 @@
 ---
 title: This is my title
+site.title: 1Arthur Ivanov Test Site
+site.description: 1Yeah baby
 ---
 # {{ page.title }}
 
