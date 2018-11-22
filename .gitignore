@@ -2,3 +2,13 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+**/.DS_Store
+**/desktop.ini
+CNAME
+.travis.yml
+.idea/
+.vscode/
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
